@@ -1,2 +1,2 @@
 # Singleton
- Just a project to use as a Avaliative proof and to remember design patterns.
+ Just a project to use as an Avaliative proof and to remember design patterns.
